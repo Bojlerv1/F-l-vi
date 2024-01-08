@@ -75,7 +75,7 @@ tablazat
 </head>
 <body>
 
-<h1>Merczel Dániel</h1>
+<h1>Egerszegi Ádám (bojler)</h1>
 <p>Ez az első weboldalam.</p>
 
 </body>
